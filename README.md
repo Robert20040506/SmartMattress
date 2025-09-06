@@ -15,5 +15,4 @@ models.ipynb contains the tensorflow models, utils.py contains the data preproce
 在模型实验中，测试了 DNN、CNN 与 LSTM，其中 DNN 达到最高精度，心率误差约为 ±4 bpm。
 
 本项目基于 Python 3.8 与 TensorFlow 2 开发：
-	•	models.ipynb：包含各类 TensorFlow 模型
-	•	utils.py：实现数据预处理功能
+models.ipynb：包含各类 TensorFlow 模型，utils.py：实现数据预处理功能
